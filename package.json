@@ -22,12 +22,11 @@
         "url": "https://github.com/smylydon/gulp-signnow-inject-json/issues"
     },
     "homepage": "https://github.com/smylydon/gulp-signnow-inject-json",
-    "dependencies": {},
     "devDependencies": {
         "gulp": "^3.0.0",
         "gulp-sourcemaps": "^1.5.0",
         "gulp-util": "^3.0.4",
         "jshint": "^2.6.3",
-        "map-stream": ">=0.0.4",
+        "map-stream": ">=0.0.4"
     }
 }
